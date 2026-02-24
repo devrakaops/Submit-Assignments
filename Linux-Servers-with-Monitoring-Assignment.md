@@ -1,4 +1,9 @@
+<p align="center">
+  <img width="747" height="131" alt="image" src="https://github.com/user-attachments/assets/8ac818d4-0d10-4cb2-a838-89930d481889" />
+ </p>
+
 ## Understand the Project Background ( Real-World Production Environment Simulation ) 
+
 
 You are working as a **System Administrator and DevOps Engineer** in a cloud-based service company.
 Your company has received a new client:
