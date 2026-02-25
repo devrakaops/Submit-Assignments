@@ -1,6 +1,6 @@
 
 On the linux-server assignment, do perform this task.
-Linux-Server assignment link: https://github.com/devrakaops/Submit-Assignments/raw/refs/heads/main/Linux-Servers.md
+Linux-Server assignment link: https://github.com/devrakaops/Submit-Assignments/blob/main/Linux-Servers.md
 
  <p align="center">
  <img width="1366" height="289" alt="image" src="https://github.com/user-attachments/assets/a0a4523e-a589-47d0-916e-fadbbdd97aae" />
