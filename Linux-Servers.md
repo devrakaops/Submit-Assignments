@@ -1,6 +1,10 @@
 <p align="center">
 <img width="1366" height="283" alt="image" src="https://github.com/user-attachments/assets/afa495e3-f28f-4212-bf00-ae46627f40b0" />
  </p>
+Download Linux Server Assignment PDF. 
+Link: [Linux-Servers.pdf](https://github.com/user-attachments/files/25548138/Linux-Servers.pdf)
+
+---
 
 ## Understand the Project Background ( Real-World Production Environment Simulation ) 
 
