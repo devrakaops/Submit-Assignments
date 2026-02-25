@@ -158,4 +158,4 @@ For clear visibility create the repository with following given example format.
 For example if candidate is `Ajay Sharma`, then he will create a respotiry named `ajay-sharma-assignment-repo`.
 
 ### Push the assignments 
-* At the end push all your assignments to your repository.
+At the end push all your assignments to your repository.
