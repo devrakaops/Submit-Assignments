@@ -6,10 +6,11 @@ Linux-Server assignment link: https://github.com/devrakaops/Submit-Assignments/b
  <img width="1366" height="289" alt="image" src="https://github.com/user-attachments/assets/a0a4523e-a589-47d0-916e-fadbbdd97aae" />
  </p>
 
-To avoid downtime and production failures, the client wants complete monitoring.
-You must implement infrastructure-level monitoring.
 
-### 1. Infrastructure Monitoring (Metrics-Based Monitoring)
+
+## Question- 1. Infrastructure Monitoring (Metrics-Based Monitoring)
+To avoid downtime and production failures, the client wants complete monitoring. You must implement infrastructure-level monitoring.
+
 #### Tools to Configure (Metrics-Based Monitoring)
 
 * `Prometheus` → Metrics Collector
@@ -26,10 +27,11 @@ Your monitoring must show:
 * Memory Usage
 * Disk Usage
 * MySQL Query Metrics
+---
 
-### 2. Application Monitoring (Log-Based Monitoring)
-In production, logs are critical for debugging issues.
-You must implement log-based monitoring.
+## Question-2. Application Monitoring (Log-Based Monitoring)
+In production, logs are critical for debugging issues. You must implement log-based monitoring.
+
 #### Tools to Configure (Log-Based Monitoring)
 
 * `Loki` → Log Collector
@@ -45,11 +47,12 @@ Logs should be searchable from Grafana dashboard.
 
 ---
 # How you will submit the assignment ???
-## Create a repository 
-* For submission of this assignment, you have to create your own GitHUB repostory account.
-## What is name of the repository ??
-* For clear visibility create the repository with following given example format.
-* For example if candidate is `Ajay Sharma`, then he will create a respotiry named `ajay-sharma-assignment-repo`.
+### Create a repository 
+For submission of this assignment, you have to create your own GitHUB repostory account.
 
-## Push the assignments 
-* At the end push all your assignments to your repository.
+### What is name of the repository ??
+For clear visibility create the repository with following given example format.
+For example if candidate is `Ajay Sharma`, then he will create a respotiry named `ajay-sharma-assignment-repo`.
+
+### Push the assignments 
+At the end push all your assignments to your repository.
